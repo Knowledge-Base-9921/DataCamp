@@ -17,7 +17,7 @@ Once you’ve completed all of the chapters, you’ll be ready to apply your new
 
 | Part | Title | Description | Status |
 |------|-------|---------------|--------|
-| 1 | Matplotlib | Data visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you’ll learn how to build various types of plots, and customize them to be more visually appealing and interpretable. | To-do |
+| 1 | Matplotlib | Data visualization is a key skill for aspiring data scientists. Matplotlib makes it easy to create meaningful and insightful plots. In this chapter, you’ll learn how to build various types of plots, and customize them to be more visually appealing and interpretable. | Completed |
 | 2 | Dictionaries & Lists | Learn about the dictionary, an alternative to the Python list, and the pandas DataFrame, the de facto standard to work with tabular data in Python. You will get hands-on practice with creating and manipulating datasets, and you’ll learn how to access the information you need from these data structures. | To-do |
 | 3 | Logic, Control Flow and Filtering | Boolean logic is the foundation of decision-making in Python programs. Learn about different comparison operators, how to combine them with Boolean operators, and how to use the Boolean outcomes in control structures. You'll also learn to filter data in pandas DataFrames using logic. | To-do |
 | 4 | Loops | There are several techniques you can use to repeatedly execute Python code. While loops are like repeated if statements, the for loop iterates over all kinds of data structures. Learn all about them in this chapter. | To-do |
